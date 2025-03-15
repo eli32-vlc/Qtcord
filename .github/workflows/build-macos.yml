@@ -4,8 +4,8 @@ on:
  push:
    tags:
      - "**"
-# on:
-#   push
+
+     
 
 jobs:
   Build-macOS:
